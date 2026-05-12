@@ -1,0 +1,56 @@
+:root {
+    --ss-color-113317: #FFE800;
+    --ss-color-113318: #373737;
+    --ss-color-113317-dark: #e6cf00;
+    --ss-color-113318-dark: #1e1e1e;
+}
+
+
+.site-container {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.primary-navigation,
+.location-quick-links {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.primary-navigation .page-listing li {
+  font-size: 18px;
+}
+
+.post--title,
+.post-column_set .column--title,
+.post-item_list .item--title,
+.post-gallery .gallery-photo--title,
+.post-menu .item--name,
+.post-pricing_table .plan--title,
+.location-title,
+.footer-container .about-title,
+.social-icons__title {
+    font-family: 'Red Hat Text', sans-serif;
+}
+
+
+.post-button {
+
+    border-style: none;
+
+  border-radius: 23px;
+
+    box-shadow: 0px 4px 12px 1.28px rgba(0, 0, 0, 0.3);
+
+}
+
+
+body {
+  background-color: #ffffff;
+}
+
+body:before {
+    background-image: none;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
